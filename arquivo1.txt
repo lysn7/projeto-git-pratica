@@ -1,2 +1,4 @@
 Meu primeiro arquivo no Git
 Linha adicionada na nova-feature
+Edição feita direto na main pelo GitHub
+
